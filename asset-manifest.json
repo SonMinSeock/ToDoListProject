@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ToDoListProject/static/js/main.3d215890.js",
+    "index.html": "/ToDoListProject/index.html",
+    "main.3d215890.js.map": "/ToDoListProject/static/js/main.3d215890.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3d215890.js"
+  ]
+}
